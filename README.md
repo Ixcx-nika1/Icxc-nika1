@@ -75,6 +75,5 @@ Saya adalah mahasiswa **Teknik Informatika di Universitas AKI (UNAKI), Semarang*
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Ixcx-nika1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ixcx-nika1&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://streak-stats.demolab.com/?user=Ixcx-nika1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
